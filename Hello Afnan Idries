@@ -1,9 +1,9 @@
 /**
  * This is an example class that illustrates printing a message to the screen
  *
- * @AfnanIdries
+ * @author Afnan Idries
  */
-public class HelloWorld {
+public class HelloWorldAfnan {
     /**
      * Starts the program
      *
